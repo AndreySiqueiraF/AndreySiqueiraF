@@ -1,3 +1,1 @@
 - 👀 Interessado em tudo que envolve T.I
-- 💻 Linguagens a aprender.. JavaScript
-- 🤠 Interessado em aprender a usar HTML e CSS
